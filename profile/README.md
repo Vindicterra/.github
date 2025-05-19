@@ -1,5 +1,6 @@
 # Vindicterra
 Welcome to the Vindicterra Github Org.
+Founded by MrSeven
 
 For now you will find any of our code that we have open-sourced and there are more things to come.
 
